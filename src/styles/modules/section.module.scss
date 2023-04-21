@@ -1,0 +1,22 @@
+.section {
+  width: 100%
+}
+
+.verticalFlex {
+  display: flex;
+  flex-direction: column;
+}
+
+.verticalAlign {
+  display: flex;
+  align-items: center;
+}
+
+.fullscreenHeight {
+  min-height: 100vh;
+}
+
+.alignItemsCenter {
+  text-align: center;
+  justify-content: center;
+}

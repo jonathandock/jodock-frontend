@@ -1,0 +1,21 @@
+.nav {
+  position: fixed;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.active {
+  font-weight: bold;
+}
+
+.navItem {
+  margin: 1em 0;
+  padding: 0 8px;
+  text-transform: uppercase;
+}
+
+.mainTitle {
+  font-size: 4em;
+  font-family: var(--anton-font);
+}

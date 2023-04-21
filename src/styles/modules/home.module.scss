@@ -1,0 +1,19 @@
+.mainTitle {
+  font-size: 6em;
+  font-family: var(--anton-font);
+}
+
+.text {
+  font-family: var(--merriweather-font);
+}
+
+.homeBackground {
+  background-image: url("/images/home-bg.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.player {
+  border-radius: 12px;
+  width: 100%
+}
